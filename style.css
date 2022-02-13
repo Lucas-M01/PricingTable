@@ -272,6 +272,7 @@ button:hover{
     align-items: center;
     padding: 8px 24px;
     margin: 15px 0 0 148px;
+    cursor: default;
 
     width: 94px;
     height: 32px;
